@@ -1,4 +1,4 @@
-C implementation of onset detection method using sprectral flux (difference in the spectrum between frames).
+C implementation of onset detection method using sprectral flux (difference in the spectrum between frames). Who knows, it might even be fast.
 
 You'll need these libraries, just use your package manager to get them:-
 
