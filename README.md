@@ -1,5 +1,13 @@
 C implementation of onset detection method using sprectral flux (difference in the spectrum between frames).
 
+You'll need these libraries, just use your package manager to get them:-
+
+libsndfile - http://www.mega-nerd.com/libsndfile/
+fftw - http://www.fftw.org/
+
+----------
+References
+
 Followed a C# tutorial here:-
 http://www.badlogicgames.com/wordpress/?p=122
 
